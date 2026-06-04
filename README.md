@@ -3,7 +3,7 @@
 <h3 align="center">Java Developer • DSA Learner • AI Enthusiast • Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 - 🔧 Git & GitHub Version Control
 - 💡 Problem Solving & Logical Thinking
 - 🚀 Project-Based Learning
-- 📚 Continuous Improvement Mindset
+- 📚 Continuous Learning Mindset
 
 ---
 
@@ -82,8 +82,6 @@ Machine Learning
         ↓
 Real-World Projects
 ```
-
----
 
 # 🏆 Core Skills
 
@@ -160,7 +158,15 @@ Real-World Projects
 <p align="center">
 
 <a href="https://github.com/krishjhunjhunwala">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-krishjhunjhunwala-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krish-jhunjhunwala-69524b351/">
+<img src="https://img.shields.io/badge/LinkedIn-Krish%20Jhunjhunwala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jjwal_akrish/">
+<img src="https://img.shields.io/badge/Instagram-@jjwal__akrish-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -174,5 +180,5 @@ Real-World Projects
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for Visiting My Profile ⭐
 </h3>
