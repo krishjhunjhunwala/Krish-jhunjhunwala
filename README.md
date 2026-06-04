@@ -1,97 +1,178 @@
 <h1 align="center">Hi 👋, I'm Krish Jhunjhunwala</h1>
 
-<h3 align="center">Java Developer | DSA Learner | AI Enthusiast</h3>
+<h3 align="center">Java Developer • DSA Learner • AI Enthusiast • Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishjhunjhunwala&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Passionate about Software Development and Artificial Intelligence
-- 🤖 Exploring AI and Machine Learning
-- 🌱 Currently learning Java, Data Structures & Algorithms
-- 🚀 Building projects and improving problem-solving skills
-- 🎯 Goal: Become a skilled Software Engineer and AI Developer
-- ⚡ Always learning, building, and growing
+- ☕ Currently mastering Java and Data Structures & Algorithms
+- 🤖 Exploring AI, Machine Learning, TensorFlow, and Automation
+- 🌱 Learning Full-Stack Development and Modern Technologies
+- 🚀 Building projects to improve problem-solving and development skills
+- 🎯 Working toward becoming a top Software Engineer and AI Developer
+- 📚 Lifelong learner who enjoys turning ideas into real projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🌟 Skill Highlights
+
+- ☕ Strong Foundation in Java Programming
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Frontend Web Development
+- 🔧 Git & GitHub Version Control
+- 💡 Problem Solving & Logical Thinking
+- 🚀 Project-Based Learning
+- 📚 Continuous Improvement Mindset
+
+---
+
+# 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,git,github,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Java Programming
-- Object-Oriented Programming
-- Git & GitHub
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-
----
-
-## 🎯 Current Goals
-
-- Master Java & DSA
-- Solve Coding Problems Daily
-- Build Real-World Projects
-- Learn Full-Stack Development
-- Explore AI & Machine Learning
-- Contribute to Open Source
-
----
-
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishjhunjhunwala&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishjhunjhunwala&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,react,tensorflow" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🤖 Automation & AI Tools
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krishjhunjhunwala&theme=tokyonight&row=1&column=7" />
+
+<img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📈 Profile Views
+# 🎯 Current Learning Roadmap
+
+```text
+Java Programming
+        ↓
+Data Structures & Algorithms
+        ↓
+Competitive Programming
+        ↓
+Web Development
+        ↓
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Real-World Projects
+```
+
+---
+
+# 🏆 Core Skills
+
+✔ Java Programming
+
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ Git & GitHub
+
+✔ HTML & CSS
+
+✔ JavaScript
+
+✔ React
+
+✔ Python
+
+✔ C++
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ TensorFlow
+
+✔ Workflow Automation (n8n)
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=krishjhunjhunwala&label=Profile+Views&color=0e75b6&style=flat" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishjhunjhunwala&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishjhunjhunwala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krishjhunjhunwala&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishjhunjhunwala&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java & DSA
+- ✅ Solve 500+ Coding Problems
+- ✅ Build 10+ Quality Projects
+- ✅ Learn React & Full-Stack Development
+- ✅ Explore AI & Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Secure High-Impact Internships
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/krishjhunjhunwala">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Favorite Quote
 
-> **Code. Learn. Build. Repeat. 🚀**
+### "Code. Learn. Build. Repeat. 🚀"
 
 ---
 
-<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
