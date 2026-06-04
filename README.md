@@ -1,35 +1,28 @@
 <h1 align="center">Hi 👋, I'm Krish Jhunjhunwala</h1>
-<h3 align="center">First-Year CSE (AI) Student | Java Developer | DSA Learner | AI Enthusiast</h3>
+
+<h3 align="center">Java Developer | DSA Learner | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;DSA+Learner;AI+%26+Machine+Learning+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Problem+Solver;AI+%26+Machine+Learning+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 First-Year Computer Science Engineering (AI) Student
-- 💻 Currently learning Java, DSA, Git & GitHub
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌱 Building projects and improving problem-solving skills
-- 🎯 Goal: Secure AI/Software Development Internships
-- ⚡ Passionate about technology and continuous learning
+- 💻 Passionate about Software Development and Artificial Intelligence
+- 🤖 Exploring AI and Machine Learning
+- 🌱 Currently learning Java, Data Structures & Algorithms
+- 🚀 Building projects and improving problem-solving skills
+- 🎯 Goal: Become a skilled Software Engineer and AI Developer
+- ⚡ Always learning, building, and growing
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,git,github,html,css,vscode" />
 </p>
 
 ---
@@ -39,29 +32,32 @@
 - Data Structures & Algorithms
 - Java Programming
 - Object-Oriented Programming
-- Artificial Intelligence
-- Machine Learning Fundamentals
+- Git & GitHub
 - Web Development
+- Artificial Intelligence
+- Machine Learning
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-- ✅ Master Java + DSA
-- ✅ Build 5+ Real Projects
-- ✅ Learn MERN Stack
-- ✅ Explore AI & Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Crack Top Internships
+- Master Java & DSA
+- Solve Coding Problems Daily
+- Build Real-World Projects
+- Learn Full-Stack Development
+- Explore AI & Machine Learning
+- Contribute to Open Source
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishjhunjhunwala&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishjhunjhunwala&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishjhunjhunwala&theme=tokyonight" />
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishjhunjhunwala&theme=tokyonight" />
 </p>
 
 ---
@@ -77,15 +73,25 @@
 ## 📈 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=krishjhunjhunwala&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=krishjhunjhunwala&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💡 Favorite Quote
+## 🌐 Connect With Me
 
-"Code. Learn. Build. Repeat."
+<p align="center">
+<a href="https://github.com/krishjhunjhunwala">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+## 💡 Quote
+
+> **Code. Learn. Build. Repeat. 🚀**
+
+---
+
+<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
